@@ -15,18 +15,18 @@
         }
     }
 
-    .divider (
+    .divider {
         height: 1px;
         background: var(--border-primary);
         margin-block: 4rem;
-    )
+    }
 
     .amantes-historia {
         margin-bottom: 6.4rem;
     }
 
-    .destino_1
-    .destino_2
+    .destino_1,
+    .destino_2,
     .destino_3 {
         img {
         height: 35rem;
@@ -44,7 +44,7 @@
         }
     }
 
-    .destino_1
+    .destino_1,
     .destino_2 {
         margin-bottom: 4.8rem;
 
